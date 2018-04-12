@@ -12,21 +12,11 @@ Im pretty good at feeding in League of Legends, Im good at coding, I also think 
 - Getting carried in PUBG
 - Getting carried in League of legends
 
-```markdown
-Syntax highlighted code block
+### Projects
 
-# Header 1
-## Header 2
-### Header 3
+- Projects will be shown here once I have some
 
-- Bulleted
-- List
+### Contact Me
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+Email: Edevilliers9789@conestogac.on.ca
 
