@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Elrich De Villiers' Page
 
-You can use the [editor on GitHub](https://github.com/Edevilliers9789/Edevilliers9789.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Im pretty good at feeding in League of Legends, Im good at coding, I also think this Assingment is very very poorly made and I have no idea how whoever made this assignment got it approved.
 
 ### Markdown
 
@@ -26,12 +24,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Edevilliers9789/Edevilliers9789.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
